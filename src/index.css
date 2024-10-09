@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.custom-height {
+  height: 100px; /* Set your desired height */
+  object-fit: cover; /* Maintain aspect ratio and cover the area */
+}
+
+.w-50 {
+  width: 20%;
+}
